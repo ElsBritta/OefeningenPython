@@ -1,0 +1,12 @@
+{
+  "description": {
+    "names": {
+      "en": "Test2",
+      "nl": "Test2"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": []
+}
