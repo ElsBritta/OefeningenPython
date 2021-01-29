@@ -1,16 +1,6 @@
 {
-  "type": "exercise",
-  "programming_language": "python",
-  "access": "public",
-  "description": {
-    "names": {
-      "nl": "test1"
-    }
-  },
-  "evaluation": {
-    "handler": "python",
-    "time_limit": 10,
-    "memory_limit": 10000000,
-    "network_enabled": true
-  }
+    "evaluation": {
+        "handler": "python"
+    },
+    "programming_language": "python"
 }
