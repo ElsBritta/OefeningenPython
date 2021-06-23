@@ -1,0 +1,1 @@
+In deze oefening testen we of een waarde in een bepaald interval ligt. Je krijgt steeds een gepaste boodschap terug.
