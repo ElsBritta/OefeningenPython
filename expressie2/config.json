@@ -1,0 +1,18 @@
+{
+  "description": {
+    "names": {
+      "nl": "expressie2"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+
+  ],
+  "internals": {
+    "token": "hSxGhRBUw-7dudki65DXXRvyJ3B8z45JfXIjpZHPkeX4a8SnxamVWJd4pnKby-qA",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  },
+  "access": "public"
+}
