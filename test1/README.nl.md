@@ -1,1 +1,0 @@
-In deze oefening lezen de studenten een getal in en printen de laatste 3 cijfers af
