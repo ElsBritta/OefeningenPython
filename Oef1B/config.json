@@ -1,7 +1,7 @@
 {
   "description": {
     "names": {
-      "nl": "Toets Oef3B"
+      "nl": "Toets Oef1B"
     }
   },
   "evaluation": {
@@ -15,4 +15,3 @@
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   },
   "access": "public"
-B
