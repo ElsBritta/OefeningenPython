@@ -5,6 +5,6 @@ d = nummer_tombola//1000
 if h%2 ==0:
   print("Proficiat, je hebt een prijs gewonnen!")
 elif 4<= d <=6:
-  print("Je krijgt een troostprijs.")  
+  print("Je krijgt nog een troostprijs.")  
 else:
   print("Jammer, volgende keer meer geluk.")  
