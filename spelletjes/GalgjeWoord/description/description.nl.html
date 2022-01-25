@@ -1,0 +1,36 @@
+<html>
+  <head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type">
+  </head>
+
+<body, style ="font-family: arial;">
+<strong>Galgje of raad het woord.</strong>
+<pre style ="font-family: arial;">
+Opdracht spelletje: Galgje
+De computer zal een willekeurig woord uit een lijst in gedachten houden en jij moet dit woord raden. 
+Bij elke beurt mag je een gokje wagen naar het hele woord of naar een letter. Je mag maximaal 10 keer fout raden.
+Opmerking:
+•	Je moet de computer een willekeurig woord uit de ingegeven lijst laten kiezen. 
+	Daarom schrijf je bovenaan je programma: from Woord import KiesWoord
+	Het willekeurige woord zet je dan in de variabele HetWoord. 
+	Dit gebeurt met de volgende code: HetWoord = Kieswoord ()
+•	Om de galg te tekenen zet je bovenaan je programma: from GalgTekenen import TekenGalg
+	In de variabele AantalFouten hou je bij hoeveel fouten er tot dan toe gemaakt zijn. 
+	De bijhorende galg tekenen gebeurt met de code: TekenGalg (AantalFouten)
+•	In de variabele gok hou je bij welke letter of woord er geraden wordt.
+•	In de variabele temp hou je bij welke letters van het te raden woord er tot dan toe al geraden zijn. 
+	Initieel bestaat temp uit puntjes gelijk aan het aantal letters van het te raden woord.
+•	In de variabele lengtewoord staat het aantal letters van het te raden woord.
+•	Om bij te houden welke letters er al geraden zijn zet je bovenaan je programma: 
+	from VervangLetter import Vervang
+	De code om een puntje uit de variabele temp in een letter te vervangen is dan: 
+	temp = Vervang (gok, lengtewoord, HetWoord, temp)
+	
+Variant:
+•	Je breidt het spel uit zodat je meerdere keren na elkaar het spel kan spelen.
+
+
+</pre>
+  </body>
+</html>
+

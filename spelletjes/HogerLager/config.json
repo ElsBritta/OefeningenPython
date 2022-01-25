@@ -1,0 +1,18 @@
+{
+  "description": {
+    "names": {
+      "nl": "Hoger Lager spelen"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+
+  ],
+  "internals": {
+    "token": null,
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  },
+  "access": "public"
+}
