@@ -14,5 +14,5 @@ Geef derde getal:
 python input without prompt: false
 block count: multi
 input block size: 3
-output block size: 1 
+output block size: 4
 show line numbers: false
