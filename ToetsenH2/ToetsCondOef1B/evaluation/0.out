@@ -1,4 +1,9 @@
-Geef eerste getal:
-Geef tweede getal:
-Geef derde getal:
 7.0
+5.1
+10.2
+----------------------------------
+python input without prompt: false
+block count: multi
+input block size: 3
+output block size: 1 
+show line numbers: false
